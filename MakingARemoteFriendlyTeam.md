@@ -63,8 +63,8 @@ This is easiest for remote people because each person is likely attending via th
 
 If you are attending from your desk in an open workspace or a busy coffee shop, be sure your microphone has active noise cancelling so the extra noise doesn't leak through. 
 
-Always join meetings muted and only un-mute when you're talking.  
-This will keep background noise from interrupting when you're not talking (or at least keep your coworkers ears in tact when you sneeze into the mic). 
+*Always join meetings muted and only un-mute when you're talking.*
+This will keep background noise from interrupting when you're not talking (or at least keep your coworkers ears intact when you sneeze into the mic). 
 
 #### Screen Shares.
 
